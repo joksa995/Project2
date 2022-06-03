@@ -1,0 +1,2 @@
+Novi dokument u branchu feature/NEW-2
+
